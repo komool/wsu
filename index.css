@@ -1,0 +1,48 @@
+  body {
+    width: 300px;
+    margin: 5px;
+    background: #ffffff;
+    color: #000000;
+  }
+
+  img {
+    width: 30px;
+    height: 30px;
+    border-radius: 30%;
+    padding: 5px;
+  }
+  
+  img.logo {
+    display: block;
+    margin: auto;
+  }
+
+  div.page {
+    width: 75px;
+    height: 65px;
+    margin-top: 5px;
+  }
+  
+  span {
+    font-size: 11px;
+    font-weight: 500;
+  }
+  
+  div.page {
+    width: 75px;
+    height: 75px;
+    display: block;
+    cursor: auto;
+    text-align: center;
+  }
+  
+  div.page:hover {
+    background-color: #d7dde4;
+    border-radius: 15%;
+  }
+
+  #container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
