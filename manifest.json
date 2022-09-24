@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "우송대학교",
-    "version": "1.1",
+    "version": "2.0",
 
     "description": "우송대학교 학생들을 위한 사이드바 확장앱 입니다",
     "icons": {  "16": "image/logo16.png",
