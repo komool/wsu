@@ -1,5 +1,5 @@
 const mainUrl = "https://wsu.ac.kr/";
-const infoUrl = "https://info.wsu.ac.kr/index_new.jsp";
+const infoUrl = "https://wsinfo.wsu.ac.kr";
 const lmsUrl = "https://smart.wsu.ac.kr/";
 const scheUrl = "https://wsu.ac.kr/page/index.jsp?code=campus0101";
 const bioUrl = "https://lms.biocoss.ac.kr/";

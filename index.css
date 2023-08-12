@@ -1,14 +1,12 @@
   body {
-    width: 380px;
+    width: 300px;
     margin: 5px;
-    background: #ffffff;
-    color: #000000;
   }
 
   img {
     width: 30px;
     height: 30px;
-    border-radius: 30%;
+    border-radius: 50%;
     padding: 5px;
   }
   
@@ -16,33 +14,32 @@
     display: block;
     margin: auto;
   }
-
-  div.page {
-    width: 75px;
-    height: 65px;
-    margin-top: 5px;
-  }
   
   span {
-    font-size: 11px;
+    font-size: medium;
     font-weight: 500;
+    padding: 10px;
   }
   
-  div.page {
-    width: 75px;
-    height: 75px;
-    display: block;
-    cursor: auto;
-    text-align: center;
-  }
-  
-  div.page:hover {
+  span.page:hover {
     background-color: #d7dde4;
     border-radius: 15%;
   }
 
-  #container {
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
     display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 50%;
   }
